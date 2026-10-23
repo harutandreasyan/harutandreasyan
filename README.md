@@ -8,6 +8,5 @@
 <p align="center">
   <a href="https://harut-andreasyan.vercel.app"><b>Portfolio</b></a> ·
   <a href="https://www.linkedin.com/in/harutandreasyan/">LinkedIn</a> ·
-  <a href="mailto:har8andreasyan@gmail.com">Email</a> ·
-  <a href="https://www.npmjs.com/package/json-server-lite">npm</a>
+  <a href="mailto:har8andreasyan@gmail.com">Email</a>
 </p>
